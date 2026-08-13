@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="Ecommerce.Order.Service.Api/Ecommerce.Order.Service.Api.csproj" />
+    <Project Path="Ecommerce.Order.Service.Application/Ecommerce.Order.Service.Application.csproj" />
+    <Project Path="Ecommerce.Order.Service.Domain/Ecommerce.Order.Service.Domain.csproj" />
+    <Project Path="Ecommerce.Order.Service.Infrastructure/Ecommerce.Order.Service.Infrastructure.csproj" />
   </Folder>
 </Solution>
